@@ -1,4 +1,4 @@
-public class MySemaphore {
+ class MySemaphore {
     private int permits;
 
     public MySemaphore(int permits) {
